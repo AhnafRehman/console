@@ -1,0 +1,11 @@
+console.log("Hi I am Console screen");
+var firstname="Ahnaf";
+var lastname="Rahman";
+var fullname=firstname.concat(lastname);
+console.log(fullname);
+var a=15 ;
+var b=5;
+console.log(a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a/b);
